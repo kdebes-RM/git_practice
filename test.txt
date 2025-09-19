@@ -1,3 +1,6 @@
 hello
 Here is some more text.
+And once again here is some more text.
+Branch changes.
+Added a cool feature.
 Bug fix.
