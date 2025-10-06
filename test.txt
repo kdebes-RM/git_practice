@@ -1,3 +1,4 @@
 hello
 Here is some more text.
 Bug fix.
+Fixed the second bug.
